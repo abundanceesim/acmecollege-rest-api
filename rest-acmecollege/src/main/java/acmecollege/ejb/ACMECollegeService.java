@@ -7,10 +7,10 @@
  * @author (original) Mike Norman
  * 
  * 	Updated by: Group 12
- *  Abundance Esim 	
- *  Harshang Shah  
- *  Mei Zhi Li   
- *  Sergio  Machado  
+ *  Abundance Esim,	
+ *  Harshang Shah,  
+ *  Mei Zhi Li,   
+ *  Sergio  Machado,  
  *
  */
 package acmecollege.ejb;
