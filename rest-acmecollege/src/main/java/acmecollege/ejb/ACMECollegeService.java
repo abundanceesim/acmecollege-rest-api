@@ -10,7 +10,7 @@
  *  Abundance Esim,	
  *  Harshang Shah,  
  *  Mei Zhi Li,   
- *  Sergio  Machado,  
+ *  Sergio  Machado
  *
  */
 package acmecollege.ejb;
